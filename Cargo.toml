@@ -1,0 +1,6 @@
+[package]
+name = "nm-gui"
+version = "0.1.0"
+authors = ["Zachary McNulty <zach.mcnulty1992@gmail.com>"]
+
+[dependencies]
