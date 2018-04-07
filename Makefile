@@ -1,5 +1,5 @@
 
-all: build
+all: build run
 
 run:
 	cargo run
