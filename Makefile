@@ -8,7 +8,7 @@ build: .install-deps
 	cargo build
 
 .install-deps:
-	sudo apt-get install libgtk-3-dev
+	sudo apt-get install libgtk-3-dev libdbus-1-dev
 	touch .install-deps
 
 clean:
