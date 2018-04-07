@@ -7,3 +7,4 @@ authors = ["Zachary McNulty <zach.mcnulty1992@gmail.com>"]
 gtk = "^0.3.0"
 relm = "^0.11.0"
 relm-derive = "^0.11.0"
+dbus = "^0.6.1"
